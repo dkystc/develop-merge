@@ -7,5 +7,7 @@
 public class Game {
     public static void main(String[] args) {
         System.out.println("超级玛丽");
+
+        System.out.println(    "bug已经修复了");
     }
 }
